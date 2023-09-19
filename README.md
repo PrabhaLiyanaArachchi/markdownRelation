@@ -59,8 +59,8 @@ Sep 18,2023
 |02           |illiad           |101         |101          |  homer          |02          |
 ##production
 ## Relation1.Bookname,Relation2.AuthorName
-|**BookName **  |**AuthorName **   |
-|---            |---               |
-|odyssey        |homer             |
-|illiad         |homer             |
+|**BookName**     |**AuthorName**   |
+|---              |---              |
+|odyssey          |homer            |
+|illiad           |homer            |
 
