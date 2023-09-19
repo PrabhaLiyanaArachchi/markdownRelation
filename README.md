@@ -51,8 +51,11 @@ Sep 18,2023
 |05           |Voltaire         |104         |104          | candide         |05          |
 
 ##The writers who has written more than one book
+
 ##Filtering
+
 ##Relation1.Authorid=Relation2.Authorid && Relation1.bookid=Relation2.bookid
+
 |**Bookid**   |**BookName**     |**Authorid**|**Authorid** |**AuthorName**   |**Bookid**  |
 |---          |---              |---         |---          |---              |---         |
 |01           |odyssey          |101         |101          |  homer          |01          |
