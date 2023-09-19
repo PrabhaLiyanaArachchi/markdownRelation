@@ -9,6 +9,7 @@ Sep 18,2023
 |03           |politics         |102         |
 |04           |Republic         |103         |
 |05           |Voltaire         |104         |
+
 ##Relation 2
 |**Authorid** |**AuthorName**   |**Bookid**  |
 |---          |---              |---         |
@@ -60,7 +61,7 @@ Sep 18,2023
 |---          |---              |---         |---          |---              |---         |
 |01           |odyssey          |101         |101          |  homer          |01          |
 |02           |illiad           |101         |101          |  homer          |02          |
-##production
+
 ## Relation1.Bookname,Relation2.AuthorName
 |**BookName**     |**AuthorName**   |
 |---              |---              |
